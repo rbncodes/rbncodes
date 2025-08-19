@@ -12,7 +12,7 @@ I'm actively building my skills in cloud engineering and DevOps, with a focus on
 
 I recently completed a hands-on AWS bootcamp. Here's a technical portfolio of my work:
 
-➡️ **[View my AWS Bootcamp Portfolio](https://github.com/your-username/aws-bootcamp-portfolio)**
+➡️ **[View my AWS Bootcamp Portfolio](https://github.com/rbncodes/aws-bootcamp-portfolio)**
 
 The portfolio includes labs on:
 - Identity & Access Management (IAM, AWS Identity Center)
