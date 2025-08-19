@@ -5,6 +5,7 @@ I'm actively building my skills in cloud engineering and DevOps, with a focus on
 ## 🛠️ My Toolkit
 
 **Cloud:** AWS, Git, GitHub
+**Programming Languages:** Python, Javascript
 
 **Current Focus:** Mastering core AWS services and preparing for the AWS Solution Architect Associate certification.
 
